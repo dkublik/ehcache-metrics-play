@@ -1,4 +1,4 @@
-EhCache Metrics Demo
+EhCache and Default Metrics Demo
 ===============
 
 code example for https://dkublik.github.io/2019/07/17/default-metrics-in-spring-boot.html
@@ -18,4 +18,4 @@ or from command line:
 ```
 
 Metrics will be written to logs every 1 minute.  
-The can be also checked at http://localhost:8080/actuator/metrics
+They can be also checked at http://localhost:8080/actuator/metrics
